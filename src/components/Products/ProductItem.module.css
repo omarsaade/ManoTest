@@ -1,0 +1,16 @@
+.listItem{
+    align-items: center;
+    list-style-type: none;
+    font-size: 11px;
+    border: 1px solid black;
+    font-family:inherit;
+    
+}   
+.listItem:hover{
+    background-color: rgb(183, 211, 236);
+    cursor: pointer;
+}
+
+.listItem:active{
+    background-color: rgb(135, 190, 239);
+}
